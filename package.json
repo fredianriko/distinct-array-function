@@ -1,0 +1,12 @@
+{
+  "name": "distinct-array-function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["disctinct","array","function","duplicates"],
+  "author": "fredianriko <fredianriko@gmail.com>",
+  "license": "ISC"
+}
