@@ -2,15 +2,15 @@
 
  **To Install**
 
-    `npm install distinct-array-function`
+    npm install distinct-array-function
 
 
 **Basic Usage**
 
-> create node project using `npm init -y`
-> install this package using `npm install distinct-array-function` in terminal 
-> create index.js file in the folder project
-> run node index.js in your curent project
+> 1. create node project using `npm init -y`
+> 2. install this package using `npm install distinct-array-function` in terminal 
+> 3. create index.js file in the folder project
+> 4. run node index.js in your curent project
 
 **Example**
 
