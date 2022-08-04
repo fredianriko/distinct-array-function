@@ -24,4 +24,4 @@ console.log(uniqueNums)
 ```
 
 **Screenshot Result**
-![Result](/remove-array-duplicate/result-sample.png)
+![Result](result-sample.png)
